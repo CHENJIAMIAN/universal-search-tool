@@ -1,3 +1,11 @@
+[English](./README.en.md)
+
+<!-- codex-github-rules:bilingual-summary -->
+> **中文简介**：支持 Google、Bing 和 DuckDuckGo 的安全研究命令行搜索工具
+>
+> **English summary**: A security-focused command-line search tool supporting Google, Bing, and DuckDuckGo
+
+---
 # 🔍 Universal Search Tool - 零配置通用搜索工具
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
