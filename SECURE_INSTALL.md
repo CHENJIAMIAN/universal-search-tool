@@ -1,5 +1,7 @@
 # 🔐 Universal Search Tool - 安全版本
 
+> [English](SECURE_INSTALL.en.md)
+
 ## ✅ 已修复安全性问题
 
 **原来的问题**: ❌ 你的私密 API key 暴露在代码中

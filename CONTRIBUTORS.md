@@ -1,5 +1,7 @@
 # 贡献者
 
+> [English](CONTRIBUTORS.en.md)
+
 感谢所有为 Universal Search Tool 项目做出贡献的开发者！
 
 ## 主要贡献者

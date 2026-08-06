@@ -1,5 +1,7 @@
 # 贡献指南
 
+> [English](CONTRIBUTING.en.md)
+
 感谢您对 Universal Search Tool 的关注！我们欢迎各种形式的贡献。
 
 ## 🤝 如何贡献

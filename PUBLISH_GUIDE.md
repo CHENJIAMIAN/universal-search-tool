@@ -1,5 +1,7 @@
 # 🚀 PyPI 发布指南
 
+> [English](PUBLISH_GUIDE.en.md)
+
 ## 📋 发布步骤
 
 ### 1. 准备 PyPI 账户
